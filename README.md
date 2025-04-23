@@ -15,9 +15,7 @@ This dynamic journey turns challenges into opportunities for learning and growth
 <a href="https://www.linkedin.com/in/utsav-singh-8399b0264/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://x.com/MyPc545493" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Twitter-000000.svg?style=for-the-badge&logo=twitter&logoColor=white position=absolute left=2rem" alt="Twitter">
-</a>
+
  <br><br>
 <h2 >⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
