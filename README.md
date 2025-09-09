@@ -2,9 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Display&weight=600&size=40&pause=600&color=F7F7F7&background=FFFFFF00&vCenter=true&random=false&width=503&height=65&lines=Hi+There+%F0%9F%91%8B!;I+am+Utsav+Singh.+;I+am+a+Developer.;I+am+a+Coder.)](https://git.io/typing-svg)<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"/>
 
-
-
-In my Fourth year, my passion for software Development and coding continues to grow. I'm currently focused on learning new technologies, which helps build fundamental logic building towards coding. 
+I am a fourth-year B.Tech student majoring in Computer Science and Engineering and my passion for software Development and coding continues to grow. I'm currently focused on learning new technologies, which helps build fundamental logic building towards coding. 
 
 This dynamic journey turns challenges into opportunities for learning and growth in the ever-evolving tech landscape.
 ### - Contact : **mypcusage2022@gmail.com**
