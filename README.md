@@ -10,7 +10,7 @@ This dynamic journey turns challenges into opportunities for learning and growth
 
 <h2 >🤝 Connect with me 🤝</h2>
 <br/>
-<a href="https://www.linkedin.com/in/utsav-singh-8399b0264/" target="_blank" style="text-decoration: none;">
+<a href="https://www.linkedin.com/in/utsav-singh-2923uv2824//" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
